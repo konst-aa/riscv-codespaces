@@ -1,3 +1,16 @@
 {
-  "build": { "dockerfile": "Dockerfile" }
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "zhwu95.riscv",
+        "ms-vscode.makefile-tools"
+      ],
+      "settings": {
+        "workbench.colorTheme": "Default Dark Modern"
+      }
+    }
+  }
 }

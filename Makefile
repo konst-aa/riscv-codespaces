@@ -1,2 +1,0 @@
-hello:
-	Rars hello.s
